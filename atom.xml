@@ -4,7 +4,7 @@
   <title><![CDATA[My Octopress Blog]]></title>
   <link href="http://join365.github.io/atom.xml" rel="self"/>
   <link href="http://join365.github.io/"/>
-  <updated>2015-11-01T09:59:36+09:00</updated>
+  <updated>2015-11-01T10:08:57+09:00</updated>
   <id>http://join365.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -14,10 +14,19 @@
 
   
   <entry>
+    <title type="html"><![CDATA[新規投稿-new]]></title>
+    <link href="http://join365.github.io/blog/post-new/"/>
+    <updated>2015-11-01T10:02:53+09:00</updated>
+    <id>http://join365.github.io/blog/post-new</id>
+    <content type="html"><![CDATA[<p>投稿</p>
+]]></content>
+  </entry>
+  
+  <entry>
     <title type="html"><![CDATA[ようこそ]]></title>
-    <link href="http://join365.github.io/blog/2015/11/01/welcome/"/>
+    <link href="http://join365.github.io/blog/welcome/"/>
     <updated>2015-11-01T09:32:36+09:00</updated>
-    <id>http://join365.github.io/blog/2015/11/01/welcome</id>
+    <id>http://join365.github.io/blog/welcome</id>
     <content type="html"><![CDATA[<p>はじめての投稿です</p>
 ]]></content>
   </entry>
