@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Octopress | My Octopress Blog]]></title>
+  <link href="http://join365.github.io/blog/categories/octopress/atom.xml" rel="self"/>
+  <link href="http://join365.github.io/"/>
+  <updated>2015-11-01T11:25:43+09:00</updated>
+  <id>http://join365.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Test]]></title>
+    <link href="http://join365.github.io/blog/octopress/test/"/>
+    <updated>2015-11-01T11:18:57+09:00</updated>
+    <id>http://join365.github.io/blog/octopress/test</id>
+    <content type="html"><![CDATA[<p>octopress</p>
+]]></content>
+  </entry>
+  
+</feed>

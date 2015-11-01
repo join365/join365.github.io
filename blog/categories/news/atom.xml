@@ -4,7 +4,7 @@
   <title><![CDATA[Category: News | My Octopress Blog]]></title>
   <link href="http://join365.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://join365.github.io/"/>
-  <updated>2015-11-01T10:25:43+09:00</updated>
+  <updated>2015-11-01T11:25:43+09:00</updated>
   <id>http://join365.github.io/</id>
   <author>
     <name><![CDATA[Your Name]]></name>
@@ -12,6 +12,16 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[New2]]></title>
+    <link href="http://join365.github.io/blog/news/new2/"/>
+    <updated>2015-11-01T11:13:09+09:00</updated>
+    <id>http://join365.github.io/blog/news/new2</id>
+    <content type="html"><![CDATA[<p>kiji kiji
+机上</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[新規投稿-new]]></title>

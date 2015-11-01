@@ -1,6 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
+    <loc>http://join365.github.io/blog/octopress/test/</loc>
+    <lastmod>2015-11-01T11:18:57+09:00</lastmod>
+  </url>
+  <url>
+    <loc>http://join365.github.io/blog/news/new2/</loc>
+    <lastmod>2015-11-01T11:13:09+09:00</lastmod>
+  </url>
+  <url>
     <loc>http://join365.github.io/blog/news/post-new/</loc>
     <lastmod>2015-11-01T10:02:53+09:00</lastmod>
   </url>
@@ -16,5 +24,8 @@
   </url>
   <url>
     <loc>http://join365.github.io/blog/categories/news/</loc>
+  </url>
+  <url>
+    <loc>http://join365.github.io/blog/categories/octopress/</loc>
   </url>
 </urlset>
