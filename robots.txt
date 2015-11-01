@@ -1,0 +1,4 @@
+User-agent: *
+Disallow: 
+
+Sitemap: http://join365.github.io/sitemap.xml 

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[My Octopress Blog]]></title>
+  <link href="http://join365.github.io/atom.xml" rel="self"/>
+  <link href="http://join365.github.io/"/>
+  <updated>2015-11-01T09:36:24+09:00</updated>
+  <id>http://join365.github.io/</id>
+  <author>
+    <name><![CDATA[Your Name]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[ようこそ]]></title>
+    <link href="http://join365.github.io/blog/2015/11/01/welcome/"/>
+    <updated>2015-11-01T09:32:36+09:00</updated>
+    <id>http://join365.github.io/blog/2015/11/01/welcome</id>
+    <content type="html"><![CDATA[<p>はじめての投稿です</p>
+]]></content>
+  </entry>
+  
+</feed>
