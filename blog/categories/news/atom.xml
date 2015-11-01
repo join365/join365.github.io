@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[My Octopress Blog]]></title>
-  <link href="http://join365.github.io/atom.xml" rel="self"/>
+  <title><![CDATA[Category: News | My Octopress Blog]]></title>
+  <link href="http://join365.github.io/blog/categories/news/atom.xml" rel="self"/>
   <link href="http://join365.github.io/"/>
   <updated>2015-11-01T10:10:41+09:00</updated>
   <id>http://join365.github.io/</id>
@@ -19,15 +19,6 @@
     <updated>2015-11-01T10:02:53+09:00</updated>
     <id>http://join365.github.io/blog/news/post-new</id>
     <content type="html"><![CDATA[<p>投稿</p>
-]]></content>
-  </entry>
-  
-  <entry>
-    <title type="html"><![CDATA[ようこそ]]></title>
-    <link href="http://join365.github.io/blog/welcome/"/>
-    <updated>2015-11-01T09:32:36+09:00</updated>
-    <id>http://join365.github.io/blog/welcome</id>
-    <content type="html"><![CDATA[<p>はじめての投稿です</p>
 ]]></content>
   </entry>
   
